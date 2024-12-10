@@ -7,6 +7,9 @@ header {
   text-align: center;
   background-color: darkblue;
   color: white;
+  position: sticky;
+  top: 0;
+  opacity: 0.9;
 }
 
 main {
@@ -28,6 +31,9 @@ main {
 
 img {
   margin-top: 24px;
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
 }
 
 footer {
